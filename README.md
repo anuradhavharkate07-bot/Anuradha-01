@@ -1,2 +1,4 @@
 # Anuradha-01
-this is my first repository
+This is my first Git repository.
+<br>
+Author - Anuradha Vharkate
